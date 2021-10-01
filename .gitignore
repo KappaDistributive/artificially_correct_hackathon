@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+
+# IDE
+.idea/
+
+# Starter Pack
+challenge6/
+
+# misc
+.DS_Store
