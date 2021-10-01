@@ -1,7 +1,7 @@
 # Corpora
 
 ## English (`corpus_en.txt`)
-- contains 2047757 lines
+- contains `2_047_757` lines
 - lower-case only
 - missing punctuation (especially full stops at the end of sentences)
 - one sample per line
@@ -11,6 +11,7 @@
 - shortest samples contain 10 characters, longest samples contain 999 characters
 
 ## Swedish (`corpus_sw.txt`)
+- contains `1_681_636` lines
 - missing punctuation (especially full stops at the end of sentences)
 - one sample per line
 - unicode (contains emoji)
